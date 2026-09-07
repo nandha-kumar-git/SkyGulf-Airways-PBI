@@ -183,33 +183,22 @@ The objective is to demonstrate how airline data can be transformed into **decis
 ```text
 skygulf-airways-powerbi-dashboard/
 │
-├── README.md
-│
 ├── dashboard/
 │   └── Skygulf Airways.pbix
 │
 ├── data/
-│   └── skygulf_airways_raw_data.xlsx
+│   └── SkyGulf_Airways_Dataset.xlsx
 │
 ├── screenshots/
-│   ├── airline-executive-overview.png
-│   ├── airline-operational-analysis.png
-│   ├── airline-performance-analysis.png
-│   ├── airline-risk-heatmap.png
-│   ├── airline-data-model.png
-│   └── airline-interactive-analysis.png
-
-
----
-
-# 🚀 How to Use
-
-1. Download the `.pbix` file from the `dashboard` folder.
-2. Open the file using Microsoft Power BI Desktop.
-3. Update the data source path if required.
-4. Refresh the dataset.
-5. Explore the dashboard using the interactive filters and visuals.
+│   ├── 01. Data model
+│   ├── 02. Executive overview
+│   ├── 03. Operations performance
+│   ├── 04. commercial and customer performance
+│   ├── 05. Kpi_1
+│   └── 05. Kpi_2
+│   └── 06. Kpi_3
+│
+├── README.md
 
 ---
 
-ther analytics projects on my GitHub profile.
